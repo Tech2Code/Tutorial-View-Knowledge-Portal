@@ -1,0 +1,133 @@
+a.menu1:link,a.menu1:visited ,.menu2 a:link,.menu2 a:visited{color:DarkSlateGray ;text-decoration:none;}
+a.menu1:hover,a.menu1:active,.menu2 a:hover,.menu2 a:active {color:#FF9933   ;text-decoration:none;}
+a.menu3:link,a.menu3:visited{color:blue;text-decoration:none;}
+a.menu3:hover,a.menu3:active{color:red;text-decoration:underline;}
+body,p,h1,h2,h3,h4,table,td,th,ul,ol,textarea,input
+{
+font-family:verdana,helvetica,arial,sans-serif;
+}
+.wrapper{
+   width:110%;
+     
+}
+span{float:left;
+width:0.7em;
+font-size:400%;
+font-family:algerian,courier;
+line-height:80%;}
+
+   #header .wrapper {
+      max-width:100% !important;
+   }
+	h1.logo {
+      max-width:100% !important;
+      height:auto;
+	  color:Teal   ;
+	  text-decoration:none;
+      background: 100%;
+      background-repeat:no-repeat;
+      background-position:center; 
+   }
+.cla{border-bottom:20px solid CornflowerBlue   ;}
+/*
+/* blue header */
+#header{ 
+   background:#FF9933  ; /* current scheme */
+   height:65px; 
+   line-height:50px; 
+}
+h3,h4,h5,h6
+{
+background-color:transparent;
+color:#000000;
+}
+table.tab td
+{
+text-align:left;
+background-color:whitesmoke;
+}
+table.tab th
+{
+text-align:left;
+
+}
+table.print td
+{
+border-bottom-style:ridge;
+}
+h1,h2{color:SandyBrown ;}
+.bg
+{
+border-style:solid;
+border-color:#FF9933  ;
+color:#FF9933  ;
+font-size:110%;
+font-weight:bold;
+}
+body
+{
+font-size:12px;
+color:#000000;
+background-color:#ffffff;
+margin:0px;
+overflow:auto;
+background-image:url('/images/gradientfromtop.gif');
+background-repeat:repeat-x;
+}
+.gifa
+{
+background-image:url('..\pic\emty.gif');
+background-repeat:repeat-x;
+}
+table.chapter 
+{
+font-size:110%;padding-left:3px;padding-right:3px;
+}
+h1 {font-size:200%;margin-top:0px;font-weight:normal}
+h2 {font-size:160%;margin-top:10px;margin-bottom:10px;font-weight:normal}
+h3 {font-size:120%;font-weight:normal}
+h4 {font-size:100%;}
+h5 {font-size:90%;}
+h6 {font-size:80%;}
+table,th,td,input,textarea
+{
+font-size:100%;
+}
+
+table.print a:hover {background-color:lightgrey;}
+.tab1
+{
+float:left;
+width:180;
+color:LightCoral;
+text-decoration:none;
+padding:0.2em 0.6em;
+border-right:1px solid white;
+} 
+h2.left
+{
+color:#404040;
+background-color:#ffffff;
+font-size:120%;
+margin-bottom:4px;
+padding-bottom:0px;
+margin-top:0px;
+padding-top:0px;
+font-weight:bold;
+}
+.output
+{
+border-style:solid;
+border-width:1px;
+border-color:black;
+background-color:whitesmoke;
+color:blue;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:5px;
+padding-left:5px;
+}
+table.cl
+{
+text-align:center;
+}
